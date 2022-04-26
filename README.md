@@ -2,7 +2,7 @@
 
 [3 Col Portfolio](http://startbootstrap.com/template-overviews/3-col-portfolio/) is a three column portfolio template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Getting Started
+## Start
 
 To use this template, choose one of the following options to get started:
 * Download the latest release on Start Bootstrap
